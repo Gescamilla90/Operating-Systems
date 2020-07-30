@@ -1,4 +1,3 @@
-File Management is one of the most functional pieces of an operating system. 
-Although there are many the ability to manage files and organize items within an operating system allows the user to find exactly what they need. 
-Operating systems help keep track of vital pieces of information and locations as to where they are. 
-It also hold user information if there are multiple users for one device. 
+File Management is one of the most functional pieces of an operating system. Although there are many the ability to manage files and organize items within an operating system allows the user to find exactly what they need. Operating systems help keep track of vital pieces of information and locations as to where they are. It also holds user information if there are multiple users for one device. 
+
+Security: In an operating system security is essential. Many operating systems have built in abilities to help protect passwords. In addition to protecting passwords, security features such as username and login credentials help deter people from getting access to things on your devices. For a macOS there are fingerprint options instead of typing in a password or there is face recognition on other devices to help protect the contents on a desktop. 
